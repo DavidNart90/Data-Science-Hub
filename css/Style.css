@@ -149,6 +149,7 @@ h1 { font-family: "Open Sans"; font-size: 24px; font-style: none; font-variant: 
         z-index: 79;
         height: 45vh;
         font-size: 1.6rem;
+        overflow-y:scroll;
     }
     #nav_logo{
         padding-left: 25px;
